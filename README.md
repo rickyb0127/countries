@@ -20,8 +20,8 @@ Your users should be able to:
 - Bonus: Toggle the color scheme between light and dark mode
 
 ## Links
-- [live site]()
-- [solution]()
+- [live site](https://meek-monstera-335935.netlify.app/)
+- [solution](https://www.frontendmentor.io/solutions/rest-countries-solution-using-react-and-tailwind-ehqcr4OYwB)
 
 ## Built With
 - React
